@@ -1,0 +1,5 @@
+{
+  "name": "MathInsight AI – Teacher Data Insights Tool",
+  "description": "A professional dashboard for middle school math teachers to upload student assessment data, apply deterministic filters for subgroups like ELL, ESE, and L25/35, and generate AI-driven instructional insights using Gemini.",
+  "requestFramePermissions": []
+}
