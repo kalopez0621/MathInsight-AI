@@ -2,7 +2,7 @@
 
 AI-driven instructional insights from Florida B.E.S.T. Standards Progress Monitoring data. Built with React, Node.js, and the Gemini API.
 
-**Live demo:** https://ai.studio/apps/drive/14veanVCFsZjIAmRZlgkEz-kmKVJ3uOA1?fullscreenApplet=true
+**Live demo:** https://ais-pre-fl2nqfkrvvvcm5esrcp5cx-135469202047.us-west1.run.app
 
 ## Screenshots
 
