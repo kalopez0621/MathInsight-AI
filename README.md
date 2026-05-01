@@ -4,7 +4,17 @@ AI-driven instructional insights from Florida B.E.S.T. Standards Progress Monito
 
 **Live demo:** https://ai.studio/apps/drive/14veanVCFsZjIAmRZlgkEz-kmKVJ3uOA1
 
----
+## Screenshots
+
+**Dashboard with KPI cards and subgroup filters**
+![MathInsight Dashboard](docs/mathinsight-dashboard.PNG)
+
+**AI-generated executive summary and regression flags**
+![Executive Summary](docs/mathinsight-ai-summary.PNG)
+
+**Instructional groups and targeted strategies**
+![Instructional Groups](docs/mathinsight-instructional-groups.PNG)
+
 
 ## The problem
 
